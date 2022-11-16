@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Vadim
 
 - 📫 How to reach me: <i>Bogdoingg@gmal.com</i>
-- 🔭 I’m currently working on: <b>https://bogdoing.github.io</b>
+- 🔭 I’m currently working on: <b>bogdoing.github.io</b>  <i>bogdoing.github.io</i>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,5 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<b>https://bogdoing.github.io</b>
 
 -->
