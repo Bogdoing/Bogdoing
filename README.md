@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Vadim
 
-- 📫 How to reach me: Bogdoingg@gmal.com
+- 📫 How to reach me: <i>Bogdoingg@gmal.com</i>
 
 
 <!--
