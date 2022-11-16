@@ -1,5 +1,9 @@
 ### Hi there 👋 My name is Vadim
 
+- 📫 How to reach me: Bogdoingg@gmal.com
+
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,5 +13,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<!---->
+-->
