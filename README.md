@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: <b>https://bogdoing.github.io</b>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -16,5 +16,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <b>https://bogdoing.github.io</b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
