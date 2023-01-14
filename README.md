@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: <b>https://bogdoing.github.io</b>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&layout=full)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
