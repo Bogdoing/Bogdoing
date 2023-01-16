@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on: <b>https://bogdoing.github.io</b>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&layout=full)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,8 +17,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <b>https://bogdoing.github.io</b>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bogdoing)](https://git.io/streak-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&layout=full)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bogdoing)](https://github.com/ryo-ma/github-profile-trophy)
 
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bogdoing&theme=solarized_dark)
 -->
