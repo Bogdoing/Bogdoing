@@ -3,6 +3,7 @@
 - 📫 How to reach me: <i>Bogdoingg@gmal.com</i>
 - 🔭 I’m currently working on: <b>https://bogdoing.github.io</b>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark)
 
 
 
