@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on: <b>https://bogdoing.github.io</b>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark)
 
 
 <!--
@@ -19,6 +18,7 @@
 <b>https://bogdoing.github.io</b>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bogdoing)](https://git.io/streak-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdoing&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
