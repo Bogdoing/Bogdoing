@@ -1,8 +1,9 @@
 ### Hi there 👋 My name is Vadim
 
 - 📫 How to reach me: <i>Bogdoingg@gmal.com</i>
+<!--
 - 🔭 My website: <b>https://bogdoing.github.io</b>
-
+-->
 
 ### TOP language
 
