@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vadim
+### Hi there 👋 My name is Vadim - Senior Hello World developer 
 
 - 📫 How to reach me: <i>Bogdoingg@gmal.com</i>
 <!--
