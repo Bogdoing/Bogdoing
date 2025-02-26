@@ -4,16 +4,13 @@
 <!--
 - 🔭 My website: <b>https://bogdoing.github.io</b>
 -->
-
+![](https://komarev.com/ghpvc/?username=Bogdoing)
 ### TOP language
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bogdoing&theme=solarized_dark)
-
-![](https://komarev.com/ghpvc/?username=Bogdoing)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark) 
 <!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bogdoing&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogdoing&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bogdoing&theme=solarized_dark)
 
